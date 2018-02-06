@@ -13,6 +13,7 @@ My linkedin: https://www.linkedin.com/in/shaoming-xu/
 <a href="https://en.wikipedia.org/wiki/Alternating_bit_protocol">Alternating-Bit(ABT)</a>, 
 <a href="https://en.wikipedia.org/wiki/Go-Back-N_ARQ">Go-Back-N(GBN)</a>, and
 <a href="https://en.wikipedia.org/wiki/Selective_Repeat_ARQ">Selective-Repeat(SR)</a>.
+to deal with data loss, data corruption and should deliver the data in order.
 </p>
 
 
