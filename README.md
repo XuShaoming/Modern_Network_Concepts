@@ -8,7 +8,7 @@ My linkedin: https://www.linkedin.com/in/shaoming-xu/
 <p>Client functionalities include Unicast messaging, Broadcast messaging, and peer Blocking.</p>
 <p>Server functionalities incude Message Relayed, Client information statistics</p>
 <p>C and the BSD sockets API are used to implement this project.
-<h2>Second project</h2>
+<h2>Second project: Reliable Transport Protocols</h2>
 <p> The second project to implement three reliable data transport protocols
 <a href="https://en.wikipedia.org/wiki/Alternating_bit_protocol">Alternating-Bit(ABT)</a>, 
 <a href="https://en.wikipedia.org/wiki/Go-Back-N_ARQ">Go-Back-N(GBN)</a>, and
