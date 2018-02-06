@@ -9,10 +9,10 @@ My linkedin: https://www.linkedin.com/in/shaoming-xu/
 <p>Server functionalities incude Message Relayed, Client information statistics</p>
 <p>C and the BSD sockets API are used to implement this project.
 <h2>Second project</h2>
-<p> The second project to implement three reliable data transport protocols: 
+<p> The second project to implement three reliable data transport protocols
 <a href="https://en.wikipedia.org/wiki/Alternating_bit_protocol">Alternating-Bit(ABT)</a>, 
 <a href="https://en.wikipedia.org/wiki/Go-Back-N_ARQ">Go-Back-N(GBN)</a>, and
-<a href="https://en.wikipedia.org/wiki/Selective_Repeat_ARQ">Selective-Repeat(SR)</a>.
+<a href="https://en.wikipedia.org/wiki/Selective_Repeat_ARQ">Selective-Repeat(SR)</a>
 to deal with data loss, data corruption and should deliver the data in order.
 </p>
 
