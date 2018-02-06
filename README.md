@@ -4,5 +4,7 @@ My linkedin: https://www.linkedin.com/in/shaoming-xu/
 <p>This folder includes three interesting and challenging projects from Modern Network Concepts course on Fall semester 2017 at University at Buffalo.</p>
 <p>All three projects are written by Programming C language.<p>
 <h2>First project </h2>
-<p>The first projects is the Text Chat Application. In this project I use the knowledge on Socket Programming in C to implement
-the TCP connections among one chat server and multiple chat clients. Then I use the selcet() system call to handle multiple socket connections.</p>
+<p>The first projects is the Text Chat Application. The project is to create a client-server architecture based text chat application involving up-to 4 clients concurrently using IO Multiplexing techniques.</p>
+<p>Client functionalities include Unicast messaging, Broadcast messaging, and peer Blocking.</p>
+<p>Server functionalities incude Message Relayed, Client information statistics</p>
+<p>C and the BSD sockets API are used to implement this project.
