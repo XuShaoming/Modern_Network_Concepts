@@ -15,5 +15,8 @@ My linkedin: https://www.linkedin.com/in/shaoming-xu/
 <a href="https://en.wikipedia.org/wiki/Selective_Repeat_ARQ">Selective-Repeat(SR)</a>
 to deal with data loss, data corruption and should deliver the data in order.
 </p>
-
+<h2>Third project: Software Defined Routing</h2>
+<p> The third project is to implement the <a href="https://en.wikipedia.org/wiki/Distance-vector_routing_protocol">distance vector</a> routing protocol to build routing tables on 5 dedicated servers. 
+</p>
+<p> In addition to the routing protocol, the control plane also functioned as a controller agent to receive and respond to messages from/to a remote controller. </p>
 
