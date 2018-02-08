@@ -6,7 +6,7 @@
 #include "../include/crash.h"
 
 void crash_response(int sock_index){
-		//send response back controller
+	//send response back controller
 	uint16_t response_payload_len, response_len;
 	char *cntrl_response_header, *cntrl_response;
 	response_payload_len = 0;
